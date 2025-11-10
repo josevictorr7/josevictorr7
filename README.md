@@ -1,10 +1,8 @@
 # **💻 Olá, eu sou o José Victor!**
 
----
-
 Estudante de **Ciência da Computação** e desenvolvedor em constante aprendizado.
-Focado em back-end com **Java** e **Spring Boot**, mas também tendo experiência em front-end utilizando **React**, **JavaScript**, **HTML** e **CSS**.
-Busco usar a tecnologia para resolver problemas reais. 
+Focado em back-end com **Java** e **Spring Boot**, mas também tendo experiência em front-end.
+Busco usar a tecnologia para resolver problemas reais, e curar dores do dia-a-dia. 
 Planejo em breve me aprofundar em **Intligência Artificial** e me tornar referência no assunto. 
 
 ---
@@ -13,11 +11,11 @@ Planejo em breve me aprofundar em **Intligência Artificial** e me tornar refer�
 
 ---
 
-• 🎓 Estudante de Ciência da Computação - 3º Semestre
-• 📍 19 Anos, Sorocaba - São Paulo.
-• 📚 Constante evolução e estudos em desenvolvimento **full stack**.
-• 🤖 Em breve estudar, e me tornar referência em **Inteligência Artificial**.
-• ⚽ Apaixonado por esportes, e lifestyle.
+**•** 🎓 Estudante de Ciência da Computação - 3º Semestre
+**•** 📍 19 Anos, Sorocaba - São Paulo.
+**•** 📚 Constante evolução e estudos em desenvolvimento **full stack**.
+**•** 🤖 Em breve estudar, e me tornar referência em **Inteligência Artificial**.
+**•** ⚽ Apaixonado por esportes, e lifestyle.
 
 ---
 
