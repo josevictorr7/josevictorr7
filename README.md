@@ -1,18 +1,18 @@
 # **💻 Olá, eu sou o José Victor!**
 
-Sou estudante de **Ciência da Computação** e desenvolvedor de software em constante aprendizado.
-Atualmente, estou focado no **back-end**, utilizando **Java e Spring Boot**.
-Mas também possuo experiência em **front-end**, trabalhando com **React e JavaScript**.
-Busco usar a **tecnologia para resolver problemas reais** e melhorar o dia a dia das pessoas.
-Em breve, pretendo me **aprofundar em Inteligência Artificial** e me tornar uma **referência na área**.
+Sou estudante de **Ciência da Computação** e desenvolvedor de software em constante aprendizado. <br>
+Atualmente, estou focado no **back-end**, utilizando **Java e Spring Boot**. <br>
+Mas também possuo experiência em **front-end**, trabalhando com **React e JavaScript**. <br>
+Busco usar a **tecnologia para resolver problemas reais** e melhorar o dia a dia das pessoas. <br>
+Em breve, pretendo me **aprofundar em Inteligência Artificial** e me tornar uma **referência na área**. <br>
 
 ## **Sobre mim**
 
-**•** 🎓 Estudante de Ciência da Computação – 3º semestre
-**•** 📍 19 anos, Sorocaba – SP
-**•** 💻 Em constante evolução em desenvolvimento de software e engenharia de IA
-**•** 🤖 Objetivo profissional de me aprofundar em Inteligência Artificial
-**•** ⚽ Apaixonado por esportes e lifestyle 
+**•** 🎓 Estudante de Ciência da Computação – 3º semestre <br>
+**•** 📍 19 anos, Sorocaba – SP <br>
+**•** 💻 Em constante evolução em desenvolvimento de software e engenharia de IA <br>
+**•** 🤖 Objetivo profissional de me aprofundar em Inteligência Artificial <br>
+**•** ⚽ Apaixonado por esportes e lifestyle
 
 ---
 
