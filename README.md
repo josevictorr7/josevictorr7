@@ -25,7 +25,7 @@ Em breve, pretendo me **aprofundar em Inteligência Artificial** e me tornar uma
 
 ## **📚 Meus estudos**
 
-Organizo meus aprendizados e anotações no meu repositório de estudos no GitHub: estudos-jv.
+Organizo meus aprendizados e anotações no meu repositório de estudos no GitHub: estudos-jv. <br>
 Lá você encontra resumos, alguns projetos, desafios resolvidos e anotações de cursos técnicos e acadêmicos.
 
 > Tudo dentro desse repositório é livre para uso e clonagem.
@@ -34,19 +34,19 @@ Lá você encontra resumos, alguns projetos, desafios resolvidos e anotações d
 
 ## **🧠 Tecnologias e Linguagens**
 
-[![Tecnologias](https://skillicons.dev/icons?i=js,java,js,py,html,css)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=java,js,py,html,css)](https://skillicons.dev)
 
 **⚙️ Frameworks e Bibliotecas**
 
-[![Frameworks](https://skillicons.dev/icons?i=js,spring,react,tailwind)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,react,tailwind)](https://skillicons.dev)
 
 **🗄️ Banco de Dados**
 
-[![Frameworks](https://skillicons.dev/icons?i=js,postgres)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 **🔧 Ferramentas**
 
-[![Ferramentas](https://skillicons.dev/icons?i=js,git,github,postman,vscode,idea)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,postman,vscode,idea)](https://skillicons.dev)
 
 ---
 
